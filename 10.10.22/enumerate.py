@@ -1,2 +1,2 @@
-def enumerate(iterable, start=0):
+def enumerate_(iterable, start=0):
     pass

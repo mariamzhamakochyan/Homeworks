@@ -1,2 +1,2 @@
-def map(fun, iter):
+def map_(fun, iter):
     pass
