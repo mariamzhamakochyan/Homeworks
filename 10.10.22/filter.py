@@ -1,6 +1,6 @@
 def filter_(function, sequence):
     lst = []
     for num in sequence:
-        if sequence in function:
+        if function(num):
             list.append(num)
     return lst

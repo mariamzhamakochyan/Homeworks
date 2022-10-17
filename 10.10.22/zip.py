@@ -1,1 +1,2 @@
-def
+def zip_(*iterators):
+    pass

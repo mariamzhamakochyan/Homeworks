@@ -1,4 +1,4 @@
-def range(start, stop, step):
+def range_(start, stop, step):
     res = []
     while start < stop:
         res.append(start)
